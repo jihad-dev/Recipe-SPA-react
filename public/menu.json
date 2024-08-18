@@ -1,0 +1,200 @@
+[
+    {
+        "_id": "66a7814f585604184b1ee805",
+        "name": "Greek salad",
+        "description": "Food provides essential nutrients for overall health and well-being",
+        "price": 12,
+        "image": "https://foodserver.almahmud.top/images/1722253647012-food_1.png",
+        "time": 20 ,
+        "quantity": "500g",
+        "ingredients": [
+            {
+                "name": "ground beef"
+                
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "preparation": "chopped"
+            },
+            {
+                "name": "garlic",
+                "quantity": "2 cloves",
+                "preparation": "minced"
+            }
+        ]
+    },
+    {
+        "_id": "66a78173585604184b1ee808",
+        "name": "Veg salad",
+        "description": "Food provides essential nutrients for overall health and well-being",
+        "price": 18,
+        "image": "https://foodserver.almahmud.top/images/1722253683270-food_2.png",
+        "time": 20 ,
+        "quantity": "500g",
+        "ingredients": [
+            {
+                "name": "ground beef"
+                
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "preparation": "chopped"
+            },
+            {
+                "name": "garlic",
+                "quantity": "2 cloves",
+                "preparation": "minced"
+            }
+        ]
+    },
+    {
+        "_id": "66a781b1585604184b1ee80b",
+        "name": "Clover Salad",
+        "description": "Food provides essential nutrients for overall health and well-being",
+        "price": 16,
+        "image": "https://foodserver.almahmud.top/images/1722253745159-food_3.png",
+        "time": 20 ,
+        "quantity": "500g",
+        "ingredients": [
+            {
+                "name": "ground beef"
+                
+            },
+            {
+                "quantity": "1",
+                "preparation": "chopped"
+            },
+            {
+                "quantity": "2 cloves",
+                "preparation": "minced"
+            }
+        ]
+    },
+    {
+        "_id": "66a781e4585604184b1ee80e",
+        "name": "Chicken Salad",
+        "description": "Food provides essential nutrients for overall health and well-being",
+        "price": 24,
+        "image": "https://foodserver.almahmud.top/images/1722253745159-food_3.png",
+        "time": 20 ,
+        "quantity": "500g",
+        "ingredients": [
+            {
+                "name": "ground beef"
+                
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "preparation": "chopped"
+            },
+            {
+                "name": "garlic",
+                "quantity": "2 cloves",
+                "preparation": "minced"
+            }
+        ]
+    },
+    {
+        "_id": "66a78207585604184b1ee811",
+        "name": "Lasagna Rolls",
+        "description": "Food provides essential nutrients for overall health and well-being",
+        "price": 14,
+        "image": "https://foodserver.almahmud.top/images/1722253831059-food_4.png",
+        "time": 20 ,
+        "quantity": "500g",
+        "ingredients": [
+            {
+                "name": "ground beef"
+                
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "preparation": "chopped"
+            },
+            {
+                "name": "garlic",
+                "quantity": "2 cloves",
+                "preparation": "minced"
+            }
+        ]
+    },
+    {
+        "_id": "66a78244585604184b1ee814",
+        "name": "Peri Peri Rolls",
+        "description": "\r\n        description: \"Food provides essential nutrients for overall health and well-being",
+        "price": 16,
+        "image": "https://foodserver.almahmud.top/images/1722784513256-food_8.png",
+        "time": 20 ,
+        "quantity": "500g",
+        "ingredients": [
+            {
+                "name": "ground beef"
+                
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "preparation": "chopped"
+            },
+            {
+                "name": "garlic",
+                "quantity": "2 cloves",
+                "preparation": "minced"
+            }
+        ]
+    },
+    {
+        "_id": "66a7826e585604184b1ee817",
+        "name": "Chicken Rolls",
+        "description": "Food provides essential nutrients for overall health and well-being",
+        "price": 20,
+        "image": "https://foodserver.almahmud.top/images/1722253934540-food_7.png",
+        "time": 20 ,
+        "quantity": "500g",
+        "ingredients": [
+            {
+                "name": "ground beef"
+                
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "preparation": "chopped"
+            },
+            {
+                "name": "garlic",
+                "quantity": "2 cloves",
+                "preparation": "minced"
+            }
+        ]
+    },
+    {
+        "_id": "66a7826e585604184b1ee817",
+        "name": "Chicken Rolls",
+        "description": "Food provides essential nutrients for overall health and well-being",
+        "price": 20,
+        "image": "https://foodserver.almahmud.top/images/1722253934540-food_7.png",
+        "time": 20 ,
+        "quantity": "500g",
+        "ingredients": [
+            {
+                "name": "ground beef"
+                
+            },
+            {
+                "name": "onion",
+                "quantity": "1",
+                "preparation": "chopped"
+            },
+            {
+                "name": "garlic",
+                "quantity": "2 cloves",
+                "preparation": "minced"
+            }
+        ]
+    }
+]
